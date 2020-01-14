@@ -1,0 +1,25 @@
+body{
+    background-color: #FAF8D9;
+    margin: 2em;
+}
+
+h1.bold {
+    color: #A41C2E;
+    font-weight: bolder;
+    text-align:center
+}
+
+.friend{
+    background-color: #242B64;
+}
+
+div.friend > h3 {
+    text-transform: uppercase;
+}
+
+div.friend {
+    color: #FEFEFE;
+    width: 25em;
+    margin: 0 auto;
+    padding: .5em 0em .5em 2em;
+}
